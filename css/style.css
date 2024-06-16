@@ -967,4 +967,12 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+.cut-text { 
+  text-overflow: ellipsis;
+  overflow: hidden; 
+  width: 328px; 
+  height: 1.5rem; 
+  white-space: nowrap;
+}
 /*# sourceMappingURL=style.css.map */
